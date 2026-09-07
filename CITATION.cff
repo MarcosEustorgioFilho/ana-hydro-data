@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, por favor cite-o conforme abaixo."
+title: "ana-hydro-data: pipeline reprodutível para aquisição de séries históricas hidrometeorológicas da ANA"
+type: software
+authors:
+  - family-names: "Eustorgio Filho"
+    given-names: "Marcos Aurélio"
+    orcid: "https://orcid.org/0000-0003-4596-5896"
+version: 1.0.0
+date-released: 2026-09-06
+license: GPL-3.0-or-later
+repository-code: "https://github.com/MarcosEustorgioFilho/ana-hydro-data"
+keywords:
+  - hidrologia
+  - dados hidrometeorológicos
+  - ANA
+  - R
+  - reprodutibilidade
+  - ciência de dados
+abstract: >
+  Pipeline desenvolvido para a obtenção automatizada de séries históricas
+  hidrometeorológicas — chuva, nível de rio (cota) e vazão — diretamente do
+  WebService legado da Agência Nacional de Águas e Saneamento Básico (ANA).
+  Inclui um script adicional que implementa a metodologia de download por
+  normal climatológica e por Unidade Federativa.
