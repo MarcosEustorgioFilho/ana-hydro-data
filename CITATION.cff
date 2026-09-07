@@ -10,7 +10,7 @@ version: 1.0.0
 date-released: 2026-09-06
 license: GPL-3.0-or-later
 repository-code: "https://github.com/MarcosEustorgioFilho/ana-hydro-data"
-doi: "10.5281/zenodo.22586520"
+doi: "10.5281/zenodo.22586521"
 keywords:
   - hidrologia
   - dados hidrometeorológicos
