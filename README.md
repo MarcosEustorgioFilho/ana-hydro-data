@@ -201,8 +201,16 @@ repositório evolua no futuro.
 ```
 EUSTORGIO FILHO, Marcos Aurélio. ana-hydro-data: pipeline
 reprodutível para aquisição de séries históricas hidrometeorológicas da
-ANA. 2026. Disponível em: <https://github.com/MarcosEustorgioFilho/ana-hydro-data>.
-Acesso em: [DATA DE ACESSO].
+ANA (Version v1.0.0). 2026. Zenodo. Disponível em:
+<https://doi.org/10.5281/zenodo.22586521>. Acesso em: [DATA DE ACESSO].
+```
+
+**APA:**
+
+```
+Eustorgio Filho, M. A. (2026). ana-hydro-data: pipeline reprodutível
+para aquisição de séries históricas hidrometeorológicas da ANA (Version
+v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22586521
 ```
 
 **IEEE/ACM:**
@@ -210,8 +218,13 @@ Acesso em: [DATA DE ACESSO].
 ```
 M. A. Eustorgio Filho, "ana-hydro-data: reproducible pipeline
 for acquisition of Brazilian hydrometeorological historical series (ANA),"
-2026. [Online]. Available: https://github.com/MarcosEustorgioFilho/ana-hydro-data
+version v1.0.0, 2026. [Online]. Available: https://doi.org/10.5281/zenodo.22586521
 ```
+
+> As três citações acima referenciam a *release* `v1.0.0` pelo seu DOI de
+> versão (Zenodo), não a branch `main` do GitHub — garantindo que a citação
+> permaneça estável mesmo que o repositório evolua no futuro (ver nota na
+> seção [Relação com o TCC de origem](#relação-com-o-tcc-de-origem)).
 
 Uma citação estruturada também está disponível no arquivo
 [`CITATION.cff`](CITATION.cff) deste repositório, reconhecido automaticamente
