@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/language-R-276DC3.svg)](https://www.r-project.org/)
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/1359622771.svg)](https://doi.org/10.5281/zenodo.22586520)
 
 ## O que este algoritmo faz
 
